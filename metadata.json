@@ -1,0 +1,6 @@
+{
+  "name": "Paystack - Modern Payments for Africa",
+  "description": "Modern, secure payments and financial infrastructure for ambitious businesses in Nigeria and across Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
