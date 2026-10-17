@@ -24,7 +24,7 @@ export default function App() {
   const [signUpModalOpen, setSignUpModalOpen] = useState(false);
 
   return (
-    <div className="min-h-screen bg-[#0b0e11] text-white flex flex-col font-sans selection:bg-[#30E36D] selection:text-black">
+    <div className="min-h-screen bg-[#F8FAFC] text-[#011B33] flex flex-col font-sans selection:bg-[#00C3F8]/30 selection:text-[#011B33]">
       {/* Navigation Top Bar & Mobile Menu */}
       <Navbar
         onOpenCheckoutDemo={() => setCheckoutModalOpen(true)}
